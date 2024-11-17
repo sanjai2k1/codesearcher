@@ -1,0 +1,4 @@
+code,context,filename,keywords
+<button class='btn btn-primary' onclick='submitForm()'>Submit</button>,A button element for submitting the form.,index.html,"['submit', 'button', 'form', 'click']"
+<form id='contact-form'><input type='text' id='name' placeholder='Enter your name'></form>,A form element with an input field for the user's name.,contact_form.html,"['form', 'input', 'name', 'text', 'placeholder']"
+<div class='container'><p>Welcome to our website</p></div>,A container that holds a welcome message.,home.html,"['container', 'text', 'paragraph']"
